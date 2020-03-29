@@ -1,0 +1,18 @@
+version: 2
+
+seeds:
+- name: poll_quiz_guns_guns_polls
+  description: |
+    # Poll Quiz - Guns
+    
+    This folder contains the data behind the quiz [Do You Know Where America Stands On Guns?](https://projects.fivethirtyeight.com/guns-parkland-polling-quiz/)
+    
+    [`guns-polls.csv`](guns-polls.csv) contains the list of polls about guns that we used in our quiz. All polls have been taken after February 14, 2018, the date of the school shooting in Parkland, Florida.
+    
+    ---
+    See https://data.fivethirtyeight.com/ for a list of the data and code we've published.
+    
+    Unless otherwise noted, our data sets are available under the
+    [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/),
+    and the code is available under the [MIT License](https://opensource.org/licenses/MIT).
+    If you find this information useful, please [let us know](mailto:data@fivethirtyeight.com).

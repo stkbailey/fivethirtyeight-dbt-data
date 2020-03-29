@@ -1,0 +1,1942 @@
+version: 2
+
+seeds:
+- name: world_cup_predictions_wc_20140707_100337
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140617_205249
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140617_175702
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140611_132709
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140626_180150
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140706_091537
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140615_030217
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140622_175429
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140621_175630
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140621_235521
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140709_231617
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140615_001554
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140625_091929
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140614_180027
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140618_100110
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140710_164509
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140709_095047
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140620_175706
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140629_180901
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140618_210231
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140614_000045
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140617_000315
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140626_221022
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140622_091255
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140705_225331
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140626_095930
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140618_235413
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140623_175427
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140702_094046
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140615_180820
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140615_210736
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140619_235903
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140630_223910
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140620_094015
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140704_180211
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140628_094211
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140616_182949
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140701_092605
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140630_175910
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140614_210740
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140616_205307
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140624_100611
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140609_140000
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140613_180212
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140613_091928
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140621_092639
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140619_180248
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140628_215357
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140623_220333
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140614_091756
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140618_175722
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140623_095120
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140617_091836
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140701_184332
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140615_092237
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140629_225940
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140621_205738
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140624_181518
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140713_113900
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140711_102258
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140616_185551
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140701_224103
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140616_100604
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140708_092538
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140704_220110
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140625_220012
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140627_100126
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140703_094053
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140625_180355
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140619_091907
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140628_185951
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140612_094254
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140620_235753
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140619_205931
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140705_093245
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140617_235154
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140613_205820
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140708_215459
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140629_091813
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140630_095330
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140620_205534
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140622_235721
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140622_205351
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+- name: world_cup_predictions_wc_20140612_220228
+  description: |
+    # 2014 World Cup Tournament Predictions
+    
+    FiveThirtyEight's forecasts for the 2014 World Cup, including each team's SPI rating and chance of advancing, updated throughout the course of the tournment. The date and time of each update are indicated in the file name: `wc-YYYYMMDD-HHMMSS.csv`. All times are in GMT.
+    
+    Header | Definition
+    ---|---------
+    `spi` | Soccer Power Index
+    `spi_offense` | Soccer Power Index offensive rating
+    `spi_defense` | Soccer Power Index defensive rating
+    `win_group` | Change of coming in first place in the group stage
+    `sixteen` | Chance of advancing to the knockout stage
+    `quarter` | Chance of advancing to the quarter finals
+    `semi` | Chance of advancing to the semi-finals
+    `cup` | Chance of making it to the final game
+    `win` | Chance of winning the whole thing
+    
+    __Note:__ Projections from June 27 onward reflect an [improvement to FiveThirtyEight's methodology for projecting knockout-round results](http://fivethirtyeight.com/datalab/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are/) that estimates each team's probability of winning in extra time based on its SPI ratings. Projections prior to June 27 instead split all extra-time games 50-50.
+    
+    For the World Cup predictions interactive, [click here](http://fivethirtyeight.com/interactives/world-cup/).
+    
+    For an explanation of SPI, [click here](http://fivethirtyeight.com/features/its-brazils-world-cup-to-lose/).
+    ---
+    See https://data.fivethirtyeight.com/ for a list of the data and code we've published.
+    
+    Unless otherwise noted, our data sets are available under the
+    [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/),
+    and the code is available under the [MIT License](https://opensource.org/licenses/MIT).
+    If you find this information useful, please [let us know](mailto:data@fivethirtyeight.com).

@@ -1,0 +1,15 @@
+version: 2
+
+seeds:
+- name: pulitzer_circulation_data
+  description: |
+    # Pulitzer
+    
+    This folder contains data behind the story [Do Pulitzers Help Newspapers Keep Readers?](https://fivethirtyeight.com/features/do-pulitzers-help-newspapers-keep-readers/)
+    ---
+    See https://data.fivethirtyeight.com/ for a list of the data and code we've published.
+    
+    Unless otherwise noted, our data sets are available under the
+    [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/),
+    and the code is available under the [MIT License](https://opensource.org/licenses/MIT).
+    If you find this information useful, please [let us know](mailto:data@fivethirtyeight.com).

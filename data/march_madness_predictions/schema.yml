@@ -1,0 +1,320 @@
+version: 2
+
+seeds:
+- name: march_madness_predictions_bracket_29
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_01
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_15
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_14
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_00
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_28
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_16
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_02
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_03
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_17
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_13
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_07
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_06
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_12
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_04
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_10
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_38
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_39
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_11
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_05
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_49
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_61
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_60
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_48
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_58
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_59
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_43
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_57
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_56
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_42
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_54
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_40
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_41
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_55
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_51
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_45
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_44
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_50
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_46
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_52
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_53
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_47
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_08
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_20
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_34
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_35
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_21
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_09
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_37
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_23
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_22
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_36
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_32
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_26
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_27
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_33
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_25
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_31
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_19
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_18
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_30
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+- name: march_madness_predictions_bracket_24
+  description: |
+    # March Madness Predictions
+    
+    This folder contains data behind the [2014 NCAA Tournament Predictions](http://fivethirtyeight.com/interactives/march-madness-predictions/).
+    ---
+    See https://data.fivethirtyeight.com/ for a list of the data and code we've published.
+    
+    Unless otherwise noted, our data sets are available under the
+    [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/),
+    and the code is available under the [MIT License](https://opensource.org/licenses/MIT).
+    If you find this information useful, please [let us know](mailto:data@fivethirtyeight.com).

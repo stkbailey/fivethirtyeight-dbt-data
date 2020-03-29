@@ -1,0 +1,157 @@
+version: 2
+
+seeds:
+- name: trump_world_trust_trumpworld_issue_5
+  description: |
+    # Trump World Trust
+    
+    This folder contains data behind the story [What The World Thinks Of Trump](https://fivethirtyeight.com/features/what-the-world-thinks-of-trump/).
+    
+    Two of the datasets concern the share of different countries' populations that:
+    
+    * Have a favorable view of the U.S. (`TRUMPWORLD-us.csv`)
+    * Trust the U.S. president when it comes to world affairs (`TRUMPWORLD-pres.csv`)
+    
+    The other five are approval ratings across countries for five of President Trump's proposed policies:
+    
+    * Withdraw support for international climate change agreements (`TRUMPWORLD-issue-1.csv`)
+    * Build a wall on the border between the U. S. and Mexico (`TRUMPWORLD-issue-2.csv`)
+    * Withdraw U.S. support from the Iran nuclear weapons agreement (`TRUMPWORLD-issue-3.csv`)
+    * Withdraw U.S. support for major trade agreements (`TRUMPWORLD-issue-4.csv`)
+    * Introduce tighter restrictions on those entering the U.S. from some majority-Muslim countries (`TRUMPWORLD-issue-5.csv`)
+    
+    Source: [Pew Research Center](http://www.pewresearch.org/fact-tank/2017/07/17/9-charts-on-how-the-world-sees-trump/)
+    
+- name: trump_world_trust_trumpworld_issue_4
+  description: |
+    # Trump World Trust
+    
+    This folder contains data behind the story [What The World Thinks Of Trump](https://fivethirtyeight.com/features/what-the-world-thinks-of-trump/).
+    
+    Two of the datasets concern the share of different countries' populations that:
+    
+    * Have a favorable view of the U.S. (`TRUMPWORLD-us.csv`)
+    * Trust the U.S. president when it comes to world affairs (`TRUMPWORLD-pres.csv`)
+    
+    The other five are approval ratings across countries for five of President Trump's proposed policies:
+    
+    * Withdraw support for international climate change agreements (`TRUMPWORLD-issue-1.csv`)
+    * Build a wall on the border between the U. S. and Mexico (`TRUMPWORLD-issue-2.csv`)
+    * Withdraw U.S. support from the Iran nuclear weapons agreement (`TRUMPWORLD-issue-3.csv`)
+    * Withdraw U.S. support for major trade agreements (`TRUMPWORLD-issue-4.csv`)
+    * Introduce tighter restrictions on those entering the U.S. from some majority-Muslim countries (`TRUMPWORLD-issue-5.csv`)
+    
+    Source: [Pew Research Center](http://www.pewresearch.org/fact-tank/2017/07/17/9-charts-on-how-the-world-sees-trump/)
+    
+- name: trump_world_trust_trumpworld_us
+  description: |
+    # Trump World Trust
+    
+    This folder contains data behind the story [What The World Thinks Of Trump](https://fivethirtyeight.com/features/what-the-world-thinks-of-trump/).
+    
+    Two of the datasets concern the share of different countries' populations that:
+    
+    * Have a favorable view of the U.S. (`TRUMPWORLD-us.csv`)
+    * Trust the U.S. president when it comes to world affairs (`TRUMPWORLD-pres.csv`)
+    
+    The other five are approval ratings across countries for five of President Trump's proposed policies:
+    
+    * Withdraw support for international climate change agreements (`TRUMPWORLD-issue-1.csv`)
+    * Build a wall on the border between the U. S. and Mexico (`TRUMPWORLD-issue-2.csv`)
+    * Withdraw U.S. support from the Iran nuclear weapons agreement (`TRUMPWORLD-issue-3.csv`)
+    * Withdraw U.S. support for major trade agreements (`TRUMPWORLD-issue-4.csv`)
+    * Introduce tighter restrictions on those entering the U.S. from some majority-Muslim countries (`TRUMPWORLD-issue-5.csv`)
+    
+    Source: [Pew Research Center](http://www.pewresearch.org/fact-tank/2017/07/17/9-charts-on-how-the-world-sees-trump/)
+    
+- name: trump_world_trust_trumpworld_issue_1
+  description: |
+    # Trump World Trust
+    
+    This folder contains data behind the story [What The World Thinks Of Trump](https://fivethirtyeight.com/features/what-the-world-thinks-of-trump/).
+    
+    Two of the datasets concern the share of different countries' populations that:
+    
+    * Have a favorable view of the U.S. (`TRUMPWORLD-us.csv`)
+    * Trust the U.S. president when it comes to world affairs (`TRUMPWORLD-pres.csv`)
+    
+    The other five are approval ratings across countries for five of President Trump's proposed policies:
+    
+    * Withdraw support for international climate change agreements (`TRUMPWORLD-issue-1.csv`)
+    * Build a wall on the border between the U. S. and Mexico (`TRUMPWORLD-issue-2.csv`)
+    * Withdraw U.S. support from the Iran nuclear weapons agreement (`TRUMPWORLD-issue-3.csv`)
+    * Withdraw U.S. support for major trade agreements (`TRUMPWORLD-issue-4.csv`)
+    * Introduce tighter restrictions on those entering the U.S. from some majority-Muslim countries (`TRUMPWORLD-issue-5.csv`)
+    
+    Source: [Pew Research Center](http://www.pewresearch.org/fact-tank/2017/07/17/9-charts-on-how-the-world-sees-trump/)
+    
+- name: trump_world_trust_trumpworld_issue_3
+  description: |
+    # Trump World Trust
+    
+    This folder contains data behind the story [What The World Thinks Of Trump](https://fivethirtyeight.com/features/what-the-world-thinks-of-trump/).
+    
+    Two of the datasets concern the share of different countries' populations that:
+    
+    * Have a favorable view of the U.S. (`TRUMPWORLD-us.csv`)
+    * Trust the U.S. president when it comes to world affairs (`TRUMPWORLD-pres.csv`)
+    
+    The other five are approval ratings across countries for five of President Trump's proposed policies:
+    
+    * Withdraw support for international climate change agreements (`TRUMPWORLD-issue-1.csv`)
+    * Build a wall on the border between the U. S. and Mexico (`TRUMPWORLD-issue-2.csv`)
+    * Withdraw U.S. support from the Iran nuclear weapons agreement (`TRUMPWORLD-issue-3.csv`)
+    * Withdraw U.S. support for major trade agreements (`TRUMPWORLD-issue-4.csv`)
+    * Introduce tighter restrictions on those entering the U.S. from some majority-Muslim countries (`TRUMPWORLD-issue-5.csv`)
+    
+    Source: [Pew Research Center](http://www.pewresearch.org/fact-tank/2017/07/17/9-charts-on-how-the-world-sees-trump/)
+    
+- name: trump_world_trust_trumpworld_issue_2
+  description: |
+    # Trump World Trust
+    
+    This folder contains data behind the story [What The World Thinks Of Trump](https://fivethirtyeight.com/features/what-the-world-thinks-of-trump/).
+    
+    Two of the datasets concern the share of different countries' populations that:
+    
+    * Have a favorable view of the U.S. (`TRUMPWORLD-us.csv`)
+    * Trust the U.S. president when it comes to world affairs (`TRUMPWORLD-pres.csv`)
+    
+    The other five are approval ratings across countries for five of President Trump's proposed policies:
+    
+    * Withdraw support for international climate change agreements (`TRUMPWORLD-issue-1.csv`)
+    * Build a wall on the border between the U. S. and Mexico (`TRUMPWORLD-issue-2.csv`)
+    * Withdraw U.S. support from the Iran nuclear weapons agreement (`TRUMPWORLD-issue-3.csv`)
+    * Withdraw U.S. support for major trade agreements (`TRUMPWORLD-issue-4.csv`)
+    * Introduce tighter restrictions on those entering the U.S. from some majority-Muslim countries (`TRUMPWORLD-issue-5.csv`)
+    
+    Source: [Pew Research Center](http://www.pewresearch.org/fact-tank/2017/07/17/9-charts-on-how-the-world-sees-trump/)
+    
+- name: trump_world_trust_trumpworld_pres
+  description: |
+    # Trump World Trust
+    
+    This folder contains data behind the story [What The World Thinks Of Trump](https://fivethirtyeight.com/features/what-the-world-thinks-of-trump/).
+    
+    Two of the datasets concern the share of different countries' populations that:
+    
+    * Have a favorable view of the U.S. (`TRUMPWORLD-us.csv`)
+    * Trust the U.S. president when it comes to world affairs (`TRUMPWORLD-pres.csv`)
+    
+    The other five are approval ratings across countries for five of President Trump's proposed policies:
+    
+    * Withdraw support for international climate change agreements (`TRUMPWORLD-issue-1.csv`)
+    * Build a wall on the border between the U. S. and Mexico (`TRUMPWORLD-issue-2.csv`)
+    * Withdraw U.S. support from the Iran nuclear weapons agreement (`TRUMPWORLD-issue-3.csv`)
+    * Withdraw U.S. support for major trade agreements (`TRUMPWORLD-issue-4.csv`)
+    * Introduce tighter restrictions on those entering the U.S. from some majority-Muslim countries (`TRUMPWORLD-issue-5.csv`)
+    
+    Source: [Pew Research Center](http://www.pewresearch.org/fact-tank/2017/07/17/9-charts-on-how-the-world-sees-trump/)
+    
+    ---
+    See https://data.fivethirtyeight.com/ for a list of the data and code we've published.
+    
+    Unless otherwise noted, our data sets are available under the
+    [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/),
+    and the code is available under the [MIT License](https://opensource.org/licenses/MIT).
+    If you find this information useful, please [let us know](mailto:data@fivethirtyeight.com).

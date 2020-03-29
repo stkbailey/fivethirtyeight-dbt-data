@@ -1,0 +1,32 @@
+version: 2
+
+seeds:
+- name: political_elasticity_scores_elasticity_by_state
+  description: |
+    # Political Elasticity Scores
+    
+    This folder contains the data behind the story [Election Update: The House Districts That Swing The Most (And Least) With The National Mood](https://fivethirtyeight.com/features/election-update-the-house-districts-that-swing-the-most-and-least-with-the-national-mood/).
+    
+    An elasticity score measures how sensitive a state or district it is to changes in the national political environment.
+    
+    `elasticity-by-state.csv` contains the elasticity scores for each state and the District of Columbia.
+    
+    `elasticity-by-district.csv` contains the elasticity scores for all 435 congressional districts.
+- name: political_elasticity_scores_elasticity_by_district
+  description: |
+    # Political Elasticity Scores
+    
+    This folder contains the data behind the story [Election Update: The House Districts That Swing The Most (And Least) With The National Mood](https://fivethirtyeight.com/features/election-update-the-house-districts-that-swing-the-most-and-least-with-the-national-mood/).
+    
+    An elasticity score measures how sensitive a state or district it is to changes in the national political environment.
+    
+    `elasticity-by-state.csv` contains the elasticity scores for each state and the District of Columbia.
+    
+    `elasticity-by-district.csv` contains the elasticity scores for all 435 congressional districts.
+    ---
+    See https://data.fivethirtyeight.com/ for a list of the data and code we've published.
+    
+    Unless otherwise noted, our data sets are available under the
+    [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/),
+    and the code is available under the [MIT License](https://opensource.org/licenses/MIT).
+    If you find this information useful, please [let us know](mailto:data@fivethirtyeight.com).

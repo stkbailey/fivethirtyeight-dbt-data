@@ -1,0 +1,44 @@
+version: 2
+
+seeds:
+- name: presidential_campaign_trail_trump
+  description: |
+    # Presidential Campaign Trail
+    
+    This folder contains data behind the story [The Last 10 Weeks Of 2016 Campaign Stops In One Handy Gif](http://fivethirtyeight.com/features/the-last-10-weeks-of-2016-campaign-stops-in-one-handy-gif/).
+    
+    Header | Definition
+    ---|---------
+    `date` | The date of the event
+    `location` | The location of the event
+    `lat` | Latitude of the event location
+    `lng` | Longitude of the event location
+    
+    Sources:
+    * [hillaryspeeches.com](https://hillaryspeeches.com/)
+    * [conservativedailynews.com](http://www.conservativedailynews.com/)
+    
+- name: presidential_campaign_trail_clinton
+  description: |
+    # Presidential Campaign Trail
+    
+    This folder contains data behind the story [The Last 10 Weeks Of 2016 Campaign Stops In One Handy Gif](http://fivethirtyeight.com/features/the-last-10-weeks-of-2016-campaign-stops-in-one-handy-gif/).
+    
+    Header | Definition
+    ---|---------
+    `date` | The date of the event
+    `location` | The location of the event
+    `lat` | Latitude of the event location
+    `lng` | Longitude of the event location
+    
+    Sources:
+    * [hillaryspeeches.com](https://hillaryspeeches.com/)
+    * [conservativedailynews.com](http://www.conservativedailynews.com/)
+    
+    ---
+    See https://data.fivethirtyeight.com/ for a list of the data and code we've published.
+    
+    Unless otherwise noted, our data sets are available under the
+    [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/),
+    and the code is available under the [MIT License](https://opensource.org/licenses/MIT).
+    If you find this information useful, please [let us know](mailto:data@fivethirtyeight.com).

@@ -1,0 +1,16 @@
+name: 'fivethirtyeight'
+version: '0.1.0'
+require-dbt-version: ">=0.14.0"
+
+profile: "snowflake-immutable"
+
+data-paths: ["data"]
+log-path: "logs"
+
+target-path: "target"
+clean-targets: ["target", "dbt_modules"]
+
+seeds:
+  fivethirtyeight:
+    enabled: false
+    quote_columns: true

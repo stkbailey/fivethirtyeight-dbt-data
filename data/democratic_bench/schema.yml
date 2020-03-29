@@ -1,0 +1,22 @@
+version: 2
+
+seeds:
+- name: democratic_bench
+  description: |
+    # Democratic Bench
+    
+    This folder contains data behind the story [Some Democrats Who Could Step Up If Hillary Isn’t Ready For Hillary](https://fivethirtyeight.com/features/some-democrats-who-could-step-up-if-hillary-isnt-ready-for-hillary/).
+    
+    Header | Definition
+    ---|---------
+    `cand` | Candidate
+    `raised_exp` | Amount the candidate was expected to raise
+    `raised_act` | Amount the candidate actually raised
+    
+    ---
+    See https://data.fivethirtyeight.com/ for a list of the data and code we've published.
+    
+    Unless otherwise noted, our data sets are available under the
+    [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/),
+    and the code is available under the [MIT License](https://opensource.org/licenses/MIT).
+    If you find this information useful, please [let us know](mailto:data@fivethirtyeight.com).

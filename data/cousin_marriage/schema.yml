@@ -1,0 +1,21 @@
+version: 2
+
+seeds:
+- name: cousin_marriage_data
+  description: |
+    # Cousin Marriage
+    
+    This folder contains data behind the story [Dear Mona: How Many Americans Are Married To Their Cousins?](https://fivethirtyeight.com/features/how-many-americans-are-married-to-their-cousins/)
+    
+    Header | Definition
+    ---|---------
+    `percent` | Percent of marriages that are consanguineous
+    
+    Source: [cosang.net](http://www.consang.net/index.php/Main_Page)
+    ---
+    See https://data.fivethirtyeight.com/ for a list of the data and code we've published.
+    
+    Unless otherwise noted, our data sets are available under the
+    [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/),
+    and the code is available under the [MIT License](https://opensource.org/licenses/MIT).
+    If you find this information useful, please [let us know](mailto:data@fivethirtyeight.com).
