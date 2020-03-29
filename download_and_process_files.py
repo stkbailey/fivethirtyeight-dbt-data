@@ -136,17 +136,6 @@ class FiveThirtyEightDataParser:
         self.write_schema_file(data_dir, schema_text)
         self.clean_up_data_dir(data_dir)
 
+
 if __name__ == "__main__":
     parser = FiveThirtyEightDataParser()
-
-
-
-
-# def build_index_df(directory):
-#     df = pandas.read_csv(directory / "index.csv").fillna(False)
-#     df["in_data_dir"] = df["dataset_url"].str.contains("/data/tree/master")
-#     df["project_dir"] = df["dataset_url"].apply(lambda x: (directory / x.split("/")[-1]))
-#     df["in_current_repo"] = df["project_dir"].apply(lambda x: x.exists())
-#     available = df.loc[df.in_current_repo].copy()
-#     available["size"] = available["data_dir_path"].apply(lambda x: x.stat().st_size)
-#     return available

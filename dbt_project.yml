@@ -11,6 +11,13 @@ target-path: "target"
 clean-targets: ["target", "dbt_modules"]
 
 seeds:
+  enabled: false
+  quote_columns: true
+
   fivethirtyeight:
-    enabled: false
-    quote_columns: true
+    hip_hop_candidate_lyrics:
+      enabled: true
+    librarians:
+      enabled: true
+    pew_religions:
+      enabled: true
