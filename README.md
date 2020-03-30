@@ -23,11 +23,11 @@ name in the `seeds` config block of `dbt_project.yml`. (Example below.) The next
 ```
 seeds:
   fivethirtyeight:
-    avangers:
-      enabled: true
-    tarantino:
+    bob_ross:
       enabled: true
     fandango:
+      enabled: true
+    tarantino:
       enabled: true
 ```
 
