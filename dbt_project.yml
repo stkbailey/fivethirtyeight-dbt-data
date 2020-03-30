@@ -15,9 +15,9 @@ seeds:
   quote_columns: true
 
   fivethirtyeight:
-    hip_hop_candidate_lyrics:
-      enabled: true
-    librarians:
-      enabled: true
-    pew_religions:
-      enabled: true
+    avangers:
+      enabled: false
+    tarantino:
+      enabled: false
+    fandango:
+      enabled: false

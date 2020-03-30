@@ -1,0 +1,18 @@
+version: 2
+
+seeds:
+- name: august_senate_polls
+  description: |
+    # August Senate Polls
+    
+    This folder contains the data behind the story [How Much Trouble Is Ted Cruz Really In?
+    ](https://fivethirtyeight.com/features/how-much-trouble-is-ted-cruz-really-in/)
+    
+    `august_senate_polls.csv` contains every senate poll in our database from 1990 to 2016 that was conducted in the month of August along with the results of the election corresponding to each poll and the average error of each poll.
+    ---
+    See https://data.fivethirtyeight.com/ for a list of the data and code we've published.
+    
+    Unless otherwise noted, our data sets are available under the
+    [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/),
+    and the code is available under the [MIT License](https://opensource.org/licenses/MIT).
+    If you find this information useful, please [let us know](mailto:data@fivethirtyeight.com).

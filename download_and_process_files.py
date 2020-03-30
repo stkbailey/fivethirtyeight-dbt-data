@@ -69,15 +69,18 @@ class FiveThirtyEightDataParser:
             else:
                 project_files = list(p.glob("*"))
                 csvs = list(filter(lambda x: x.suffix == ".csv", project_files))
-                readmes = list(filter(lambda x: x.name.lower() == "readme.md", project_files))
+                readmes = list(filter(lambda x: x.name.lower() in ["schema.yml", "readme.md"], project_files))
                 if not csvs or not readmes:
-                    logging.info("Removing %s: Either CSVs or README is missing.", p.name)
+                    logger.info("Removing %s: Either CSVs or README is missing.", p.name)
                     shutil.rmtree(p)
                 elif any(csv.stat().st_size > max_file_size_bytes for csv in csvs):
-                    logging.info("Removing %s: A CSV is too large.", p.name)
+                    logger.info("Removing %s: A CSV is too large.", p.name)
                     shutil.rmtree(p)
-                else:
+                elif "-" in p.name:
+                    logger.info("Move %s to %s.", p.name, p.name.replace("-","_"))
                     shutil.move(p, p.parent / p.name.replace("-","_"))
+                else:
+                    logger.info("No action required for %s.", p.name)
 
 
     def rewrite_all_files(self):
@@ -91,13 +94,20 @@ class FiveThirtyEightDataParser:
             )
             tdf.to_csv(new_path, encoding="utf-8", index=None)
 
-        for ii, s in self.files.iterrows():
+        for _, s in self.files.iterrows():
             logger.info("Rewriting %s to %s...", s["file_path"].name, s["file_name_new"])
             rewrite_file(s)
-            logger.info("\tUnlinking file.")
-            s["file_path"].unlink()
+            if s["file_path"].name != s["file_name_new"]:
+                logger.info("\tUnlinking file: %s.", s["file_path"].name)
+                s["file_path"].unlink()
 
         self.files = self.build_csv_df()
+
+    def process_data_dir(self, data_dir):
+        readme, csvs = self.parse_data_dir(data_dir)
+        schema_text = self.convert_readme_to_schema(readme, csvs)
+        self.write_schema_file(data_dir, schema_text)
+        self.clean_up_data_dir(data_dir)
 
     def convert_readme_to_schema(self, readme_path, csv_paths):
         txt = readme_path.read_text()
@@ -130,11 +140,7 @@ class FiveThirtyEightDataParser:
                 except PermissionError:
                     shutil.rmtree(f)
 
-    def process_data_dir(self, data_dir):
-        readme, csvs = self.parse_data_dir(data_dir)
-        schema_text = self.convert_readme_to_schema(readme, csvs)
-        self.write_schema_file(data_dir, schema_text)
-        self.clean_up_data_dir(data_dir)
+
 
 
 if __name__ == "__main__":

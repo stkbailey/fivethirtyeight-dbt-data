@@ -1,0 +1,27 @@
+version: 2
+
+seeds:
+- name: elo_blatter
+  description: |
+    # FIFA Teams Under Blatter
+    
+    This folder contains data behind the story [Blatter’s Reign At FIFA Hasn’t Helped Soccer’s Poor](http://fivethirtyeight.com/features/blatters-reign-at-fifa-hasnt-helped-soccers-poor/).
+    
+    Header | Definition
+    ---|---------
+    `country` | FIFA member country
+    `elo98` | The team's Elo in 1998
+    `elo15` | The team's Elo in 2015
+    `confederation` | Confederation to which country belongs
+    `gdp06` | The country's purchasing power parity GDP as of 2006
+    `popu06` | The country's 2006 population
+    `gdp_source` | Source for `gdp06`
+    `popu_source` | Source for `popu06`
+    
+    ---
+    See https://data.fivethirtyeight.com/ for a list of the data and code we've published.
+    
+    Unless otherwise noted, our data sets are available under the
+    [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/),
+    and the code is available under the [MIT License](https://opensource.org/licenses/MIT).
+    If you find this information useful, please [let us know](mailto:data@fivethirtyeight.com).

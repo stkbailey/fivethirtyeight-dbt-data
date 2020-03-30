@@ -1,8 +1,35 @@
 # FiveThirtyEight Data in DBT Format
 
-This package contains `dbt_`-compliant data extracted from *FiveThirtyEight*'s data repository.
-The package is intended to be used as a way to rapidly load interesting, fairly well-processed
-data sets, and to demonstrate the use of `dbt_` documentation.
+This repository is a [`dbt`](https://www.getdbt.com) package containing data extracted from
+[*FiveThirtyEight*'s data repository](https://github.com/fivethirtyeight/data).
+The package is intended to be used as a way to rapidly load interesting, curated
+data sets into your database of choice.
+
+## Installing this package
+
+To load data from this package, you'll need to install the package into your dbt project
+just like any other package by adding it your `packages.yml` file and running `dbt deps`.
+
+```{yaml}
+packages:
+    - git: "https://github.com/stkbailey/fivethirtyeight-open-data.git"
+      revision: 0.1.0
+```
+
+Afterwards, you'll need to indicate which projects you'd like to load by specifying the folder
+name in the `seeds` config block of `dbt_project.yml`. (Example below.) The next time you run 
+`dbt seed`, the data will load!
+
+```
+seeds:
+  fivethirtyeight:
+    avangers:
+      enabled: true
+    tarantino:
+      enabled: true
+    fandango:
+      enabled: true
+```
 
 ## About this Package
 
